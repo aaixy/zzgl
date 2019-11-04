@@ -1,0 +1,240 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# 创建的文件:20.02.2017 01:04:50
+
+newmtl Material__227
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka AM98_001_ambulance_eu_front_back.jpg
+	map_Kd AM98_001_ambulance_eu_front_back.jpg
+
+newmtl Material__226
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka AM98_001_ambulance_eu_front_back.jpg
+	map_Kd AM98_001_ambulance_eu_front_back.jpg
+
+newmtl 15___Default
+	Ns 41.0000
+	Ni 1.5000
+	d 0.3400
+	Tr 0.6600
+	Tf 0.3400 0.3400 0.3400 
+	illum 2
+	Ka 0.6000 0.6471 0.6471
+	Kd 0.6000 0.6471 0.6471
+	Ks 0.8100 0.8100 0.8100
+	Ke 0.0000 0.0000 0.0000
+
+newmtl wire_086086086
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.3373 0.3373 0.3373
+	Kd 0.3373 0.3373 0.3373
+	Ks 0.3500 0.3500 0.3500
+
+newmtl body_color
+	Ns 34.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4745 0.4745 0.4745
+	Kd 0.4745 0.4745 0.4745
+	Ks 0.7110 0.7110 0.7110
+	Ke 0.0000 0.0000 0.0000
+
+newmtl chrome
+	Ns 26.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.5580 0.5580 0.5580
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material__91
+	Ns 40.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.8190 0.8190 0.8190
+	Ke 0.0000 0.0000 0.0000
+	map_Ka uaz_main.jpg
+	map_Kd uaz_main.jpg
+
+newmtl Material__93
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.5490 0.5490 0.5490
+	Ke 0.0000 0.0000 0.0000
+	map_Ka sidenia.jpg
+	map_Kd sidenia.jpg
+
+newmtl Material__94
+	Ns 38.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.4410 0.4410 0.4410
+	Ke 0.0000 0.0000 0.0000
+	map_Ka pol.jpg
+	map_Kd pol.jpg
+
+newmtl Material__225
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka AM98_001_ambulance_eu_sides.jpg
+	map_Kd AM98_001_ambulance_eu_sides.jpg
+
+newmtl Material__55
+	Ns 49.0000
+	Ni 1.5000
+	d 0.8900
+	Tr 0.1100
+	Tf 0.8900 0.8900 0.8900 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9180 0.9180 0.9180
+	Ke 0.0000 0.0000 0.0000
+	map_Ka uaz_main.jpg
+	map_Kd uaz_main.jpg
+
+newmtl Material__57
+	Ns 54.0000
+	Ni 1.5000
+	d 0.5300
+	Tr 0.4700
+	Tf 0.5300 0.5300 0.5300 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.6750 0.6750 0.6750
+	Ke 0.0000 0.0000 0.0000
+	map_Ka vehiclelightson128.jpg
+	map_Kd vehiclelightson128.jpg
+
+newmtl Material__51
+	Ns 38.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.7830 0.7830 0.7830
+	Ke 0.0000 0.0000 0.0000
+	map_Ka uaz_main.jpg
+	map_Kd uaz_main.jpg
+
+newmtl Material__53
+	Ns 48.0000
+	Ni 1.5000
+	d 0.8900
+	Tr 0.1100
+	Tf 0.8900 0.8900 0.8900 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.6660 0.6660 0.6660
+	Ke 0.0000 0.0000 0.0000
+	map_Ka vehiclelightson128.jpg
+	map_Kd vehiclelightson128.jpg
+
+newmtl Material__50
+	Ns 46.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.5490 0.5490 0.5490
+	Ke 0.0000 0.0000 0.0000
+	map_Ka uaz_main.jpg
+	map_Kd uaz_main.jpg
+
+newmtl Material__32
+	Ns 39.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.3420 0.3420 0.3420
+	Ke 0.0000 0.0000 0.0000
+	map_Ka uaz_main.jpg
+	map_Kd uaz_main.jpg
+
+newmtl Material__33
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.3150 0.3150 0.3150
+	Ke 0.0000 0.0000 0.0000
+	map_Ka rezina.jpg
+	map_Kd rezina.jpg
+
+newmtl wire_214228153
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8392 0.8941 0.6000
+	Kd 0.8392 0.8941 0.6000
+	Ks 0.3500 0.3500 0.3500
