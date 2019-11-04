@@ -1,0 +1,30 @@
+/*萝莉体*/
+@font-face {
+    font-family: GameFont;
+	src: url("lolita.ttf");
+}
+/*文泉驿微米黑*/
+@font-face {
+    font-family: microhei;
+	src: url("microhei.ttf");
+}
+/*站酷高端黑*/
+@font-face {
+    font-family: zkgdh;
+	src: url("zkgdh.ttf");
+}
+/*站酷酷黑*/
+@font-face {
+    font-family: zkkh;
+	src: url("zkkh.ttf");
+}
+/*站酷快乐体2016修订版*/
+@font-face {
+    font-family: zkklt;
+	src: url("zkklt.ttf");
+}
+/*王汉宗中仿宋简*/
+@font-face {
+    font-family: whzzfsjwts47;
+	src: url("whzzfsjwts47.ttf");
+}
